@@ -1,4 +1,4 @@
-# Harbor Trust Bank – React Bank Management System
+# SR Bank – React Bank Management System
 
 A frontend-only practice project built with React, Vite and React Router DOM.
 All money is simulated; there is no backend.
